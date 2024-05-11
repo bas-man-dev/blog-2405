@@ -69,3 +69,5 @@ end
 gem "rspec", "~> 3.13"
 gem "rubocop", "~> 1.63"
 gem "rubocop-rspec", "~> 2.29"
+
+gem "haml", "~> 6.3"
